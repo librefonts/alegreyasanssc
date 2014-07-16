@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="AlegreyaSansSC-Black.otf.GlyphOrder.ttx"/>
+  <head src="AlegreyaSansSC-Black.otf._h_e_a_d.ttx"/>
+  <hhea src="AlegreyaSansSC-Black.otf._h_h_e_a.ttx"/>
+  <maxp src="AlegreyaSansSC-Black.otf._m_a_x_p.ttx"/>
+  <OS_2 src="AlegreyaSansSC-Black.otf.O_S_2f_2.ttx"/>
+  <name src="AlegreyaSansSC-Black.otf._n_a_m_e.ttx"/>
+  <cmap src="AlegreyaSansSC-Black.otf._c_m_a_p.ttx"/>
+  <post src="AlegreyaSansSC-Black.otf._p_o_s_t.ttx"/>
+  <CFF src="AlegreyaSansSC-Black.otf.C_F_F_.ttx"/>
+  <GDEF src="AlegreyaSansSC-Black.otf.G_D_E_F_.ttx"/>
+  <GPOS src="AlegreyaSansSC-Black.otf.G_P_O_S_.ttx"/>
+  <GSUB src="AlegreyaSansSC-Black.otf.G_S_U_B_.ttx"/>
+  <hmtx src="AlegreyaSansSC-Black.otf._h_m_t_x.ttx"/>
+</ttFont>
