@@ -1,0 +1,14 @@
+commit: HEAD
+process_files: [AlegreyaSansSC-ThinItalic.ttf.ttx, AlegreyaSansSC-Thin.ttf.ttx, AlegreyaSansSC-Regular.ttf.ttx,
+  AlegreyaSansSC-MediumItalic.ttf.ttx, AlegreyaSansSC-Medium.ttf.ttx, AlegreyaSansSC-LightItalic.ttf.ttx,
+  AlegreyaSansSC-Light.ttf.ttx, AlegreyaSansSC-Italic.ttf.ttx, AlegreyaSansSC-ExtraBoldItalic.ttf.ttx,
+  AlegreyaSansSC-ExtraBold.ttf.ttx, AlegreyaSansSC-BoldItalic.ttf.ttx, AlegreyaSansSC-Bold.ttf.ttx,
+  AlegreyaSansSC-BlackItalic.ttf.ttx, AlegreyaSansSC-Black.ttf.ttx, src/AlegreyaSansSC-ThinItalic.otf.ttx,
+  src/AlegreyaSansSC-Thin.otf.ttx, src/AlegreyaSansSC-Regular.otf.ttx, src/AlegreyaSansSC-MediumItalic.otf.ttx,
+  src/AlegreyaSansSC-Medium.otf.ttx, src/AlegreyaSansSC-LightItalic.otf.ttx, src/AlegreyaSansSC-Light.otf.ttx,
+  src/AlegreyaSansSC-Italic.otf.ttx, src/AlegreyaSansSC-ExtraBoldItalic.otf.ttx, src/AlegreyaSansSC-ExtraBold.otf.ttx,
+  src/AlegreyaSansSC-BoldItalic.otf.ttx, src/AlegreyaSansSC-Bold.otf.ttx, src/AlegreyaSansSC-BlackItalic.otf.ttx,
+  src/AlegreyaSansSC-Black.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

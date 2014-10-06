@@ -1,0 +1,1248 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Alegreya Sans SC Black
+    Sub family: Black
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 664
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Black
+    Sub family: Black Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 659
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 664
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC
+    Sub family: Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 659
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC ExtraBold
+    Sub family: ExtraBold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 664
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC ExtraBold
+    Sub family: ExtraBold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 659
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 659
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Light
+    Sub family: Light
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 664
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Light
+    Sub family: Light Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 659
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Medium
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 664
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Medium
+    Sub family: Medium Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 659
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 664
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Thin
+    Sub family: Thin
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 664
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Thin
+    Sub family: Thin Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 659
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Black
+    Sub family: Black
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 666
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Black
+    Sub family: Black Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 661
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 666
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC
+    Sub family: Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 661
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC ExtraBold
+    Sub family: ExtraBold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 666
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC ExtraBold
+    Sub family: ExtraBold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 661
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 661
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Light
+    Sub family: Light
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 666
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Light
+    Sub family: Light Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 661
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Medium
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 666
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Medium
+    Sub family: Medium Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 661
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 666
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Thin
+    Sub family: Thin
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 666
+    Character count: 526
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Alegreya Sans SC Thin
+    Sub family: Thin Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 17 -f dflt -w G -W
+    Vendor: Huerta Tipografica
+    Vendor url: http://www.huertatipografica.com.ar
+    Designer: Juan Pablo del Peral
+    Designer url: http://www.huertatipografica.com.ar
+    Glyph count: 661
+    Character count: 522
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 22
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
